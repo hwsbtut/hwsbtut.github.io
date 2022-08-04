@@ -19,9 +19,10 @@ A collection of quotes from family, friends, and Howard's cats - Gibbs and Loki.
 >
 > <cite>Gary Streiffer</cite>
 
-> Here's to you. 
+
+> From my earliest days I remember learning so many life hacks from dad, from mnemonic devices (MVEMJSUNP sure does have a ring to it!) to how jewelers use code words on tags so customers never know what labels mean. And with more serious topics - challenges we humans face - he’s always been there to lend an ear and offer measured and sage advice. All of which is captured and translated in BTUT. 
 >
-> <cite>Shannon Courtney</cite>
+> <cite>Brian Streiffer</cite>
 
 <div class="gallery-box">
   <div class="gallery">
