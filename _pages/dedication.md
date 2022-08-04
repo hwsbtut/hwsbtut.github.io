@@ -7,6 +7,10 @@ image: '/images/hws_sp_2.png'
 
 A collection of quotes from family, friends, and Howard's cats - Gibbs and Loki.
 
+> Having a problem doesn’t always need to be a problem. Don’t sweat the small stuff — and always order dessert. If you happen to be looking to improve your outlook on life, let’s just say you’ve come to the right place.
+>
+> <cite>Katie Streiffer</cite>
+
 > A remarkable collection of stories and life experiences that will help others work through their own internal conflicts. 
 >
 > <cite>Chris Streiffer</cite>
@@ -19,8 +23,7 @@ A collection of quotes from family, friends, and Howard's cats - Gibbs and Loki.
 >
 > <cite>Gary Streiffer</cite>
 
-
-> From my earliest days I remember learning so many life hacks from dad, from mnemonic devices (MVEMJSUNP sure does have a ring to it!) to how jewelers use code words on tags so customers never know what labels mean. And with more serious topics - challenges we humans face - he’s always been there to lend an ear and offer measured and sage advice. All of which is captured and translated in BTUT. 
+> From my earliest days I remember learning so many life hacks from dad, from mnemonic devices (MVEMJSUNP sure does have a ring to it!) to how jewelers use code words on tags so customers never know what labels mean. And with more serious topics - challenges we humans face - he’s always been there to lend an ear and offer measured and sage advice. All of which is captured and translated perfectly in BTUT. 
 >
 > <cite>Brian Streiffer</cite>
 
