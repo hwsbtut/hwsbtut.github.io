@@ -12,7 +12,7 @@
 
 .hero__inner {
   display: flex;
-  align-items: center;
+  align-items: top;
 
   @media only screen and (max-width: $desktop) {
     flex-direction: column;
@@ -54,7 +54,7 @@
 
 .hero__description {
   margin-bottom: 0;
-  font-size: 21px;
+  font-size: 17px;
   color: var(--text-alt-color);
 
   @media only screen and (max-width: $desktop) {
@@ -142,8 +142,8 @@
 .hero__image {
   position: relative;
   transform: translate(0);
-  width: 100%;
-  height: 410px;
+  width: 90%;
+  height: 500px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
