@@ -7,6 +7,10 @@ image: '/images/hws_sp_2.png'
 
 A collection of quotes from family, friends, and Howard's cats - Gibbs and Loki.
 
+> A remarkable collection of stories and life experiences that will help others work through their own internal conflicts. 
+>
+> <cite>Chris Streiffer</cite>
+
 > Your philosophy of life has always encouraged you to excel at any task that you engage in. With your book, you have gathered information over countless years both from your own experiences and from other sources of support. Watching you work so tirelessly to compile all of this information so that you can help others with struggles that you have personally experienced and reading quite a bit of the material, I can truly say that you have put your heart and soul completely into this book. I am so proud of you for all you have accomplished so far. The finish line is near and I look forward to crossing it with you! 
 >
 > <cite>Cheryl Streiffer</cite>
